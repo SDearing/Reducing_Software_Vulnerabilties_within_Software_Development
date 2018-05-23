@@ -32,3 +32,9 @@ In an increasing digital world, it is vital that people with accounts online tak
 3.	Do individuals understand software vulnerabilities as well as they think?
 
 In the questionnaire I ask the participant what, in their opinion, is their understanding of software vulnerabilities. There answer to this question will be compared to the questions about software vulnerabilities to see if they are correct in their opinion or if their understanding is not as well as they think.
+
+### Data Analysis
+
+### Valid and Meaningful Conclusions
+
+## Reflection of The Value of Undertaking This Research
