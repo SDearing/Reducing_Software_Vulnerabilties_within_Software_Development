@@ -33,7 +33,7 @@ In an increasing digital world, it is vital that people with accounts online tak
 
 In the questionnaire I ask the participant what, in their opinion, is their understanding of software vulnerabilities. There answer to this question will be compared to the questions about software vulnerabilities to see if they are correct in their opinion or if their understanding is not as well as they think.
 ### Table of Results
-Below are the results from my questionnaire, the excel file can be found [here](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/PrimaryResearchResults.xlsx)
+Below are the results from my questionnaire, the excel file can be found [here.](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/PrimaryResearchResults.xlsx)
 
 ![ResultsPt1](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/TableofResultsPt1.PNG)
 
@@ -44,7 +44,29 @@ Below are the results from my questionnaire, the excel file can be found [here](
 ![ResultsPt4](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/TableofResultsPt4.PNG)
 
 ### Data Analysis
+To analyse my results I will be using multiple tools and techniques to create meaningful conclusions. I will be using excel as a tool to create my diagrams to present results.
+#### Cross Referenced Questions
+The first technique I will be using, will be to use the data from my questionnaire to answer my previously mentioned questions.
+##### Are software development students competent at describing software vulnerabilities and does that understanding grow with experience?
+To answer this question I will be looking at the questions 1, 2, 3, 7 and 8. Questions 1 and 2 show me the participant's experience with coding and finding software vulnerabilties. Questions 3, 7 and 8 test the participants knowledge of software vulnerabilties, these questions were: What types of software vulnerabilties are you aware of? Have you head of buffer overflows and unvalidated inputs? and If yes, could you please describe the terms to the best of your ability. The first thing I need to establish is how many of my participants have experience in coding below is pie chart showing the distribution of participant's coding experience.
+
+![Q2Chart](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/How%20much%20time%20have%20you%20spent%20practising%20studying%20software%20development%20Pie%20Chart..PNG)
+
+As you can see just over half of the participants had no experience in programming and those with experience mostly had only 1 year of experience. To answer this question I am now going to focus on the participants qualitative results from question 3, 7 and 8. As qualitative results can be hard to analyse I am going to count the frequency of participants that got all answers right, 2/3 answers right, 1/3 answers right and no answers right and display these results in a bar graph.
+
+![correctanswersgraph](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/frequencyofcorrectanswers.PNG)
+
+From these results, we can see that students with no experience in coding were most likely to get all questions to do with software vulnerabilties wrong. However, an interesting result from this analysis is that participants with the most experience in programming had the second highest frequency to get all questions wrong and only participants with 1 year coding experience were able to answer all questions correctly.
+
+So from these results we can infer that software development students are mostly competent at answering questions about software vulnerabilties. However, from these results there is no evidence that a students understanding of software vulnerabilities increases with experience in programming.
+##### Does the average individual take actions to reduce vulnerabilities with their accounts online?
+To answer this question I will focus on questions 4 and 5. Question 4 asks if the participant uses the same password for multiple accounts and question 5 asks if their passwords contains any personal information. If a participant was taking actions to reduce their vulnerabilities online, they should answer both questions with no. I will analyse the results by making a bar graph for both questions.
+
+![Q6](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/Do%20you%20use%20the%20same%20password%20for%20multiple%20accounts%20graph.PNG)
+
+![Q7](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/Do%20your%20passwords%20contain%20personal%20information%20graph.PNG)
+
 
 ### Valid and Meaningful Conclusions
-
+From the analysis of the first aim of my investigation I can conclude that having experience in coding is beneficial in understanding software vulnerabilities. However, from the lack of more experienced programmers answering all questions correctly, I would suggest that courses studying software development do not focus on software vulnerabilties enough, as more advanced students are forgetting key details to do with software vulnerabilties.
 ## Reflection of The Value of Undertaking This Research
