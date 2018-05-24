@@ -62,11 +62,18 @@ So from these results we can infer that software development students are mostly
 ##### Does the average individual take actions to reduce vulnerabilities with their accounts online?
 To answer this question I will focus on questions 4 and 5. Question 4 asks if the participant uses the same password for multiple accounts and question 5 asks if their passwords contains any personal information. If a participant was taking actions to reduce their vulnerabilities online, they should answer both questions with no. I will analyse the results by making a bar graph for both questions.
 
+Question 6:
+
 ![Q6](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/Do%20you%20use%20the%20same%20password%20for%20multiple%20accounts%20graph.PNG)
+
+Question 7:
 
 ![Q7](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/Do%20your%20passwords%20contain%20personal%20information%20graph.PNG)
 
+The results from question 6 show that the same amount of participants use the same password for accounts than participants that don't. This suggets that using the same password for multiple accounts is still a common practise with students. The results from question 7 differ slightly from the results of question 6 as a higher frequency of participants picked the more secure option, which is to not have personal information in their passwords. From these result I can infer that most students take action in reducing vulnerabilties in their accounts by making sure they have secure passwords, however there is still a large minority that do not have secure passwords.
 
+##### Do individuals understand software vulnerabilities as well as they think?
+In the final question of my survey I asked the participant to rank from 1-10 how well they thought they understood software vulnerabilities
 ### Valid and Meaningful Conclusions
 From the analysis of the first aim of my investigation I can conclude that having experience in coding is beneficial in understanding software vulnerabilities. However, from the lack of more experienced programmers answering all questions correctly, I would suggest that courses studying software development do not focus on software vulnerabilties enough, as more advanced students are forgetting key details to do with software vulnerabilties.
 ## Reflection of The Value of Undertaking This Research
