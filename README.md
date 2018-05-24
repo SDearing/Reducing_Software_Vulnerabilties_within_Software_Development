@@ -33,6 +33,15 @@ In an increasing digital world, it is vital that people with accounts online tak
 
 In the questionnaire I ask the participant what, in their opinion, is their understanding of software vulnerabilities. There answer to this question will be compared to the questions about software vulnerabilities to see if they are correct in their opinion or if their understanding is not as well as they think.
 ### Table of Results
+Below are the results from my questionnaire:
+
+![ResultsPt1](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/TableofResultsPt1.PNG)
+
+![ResultsPt2](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/TableofResultsPt2.PNG)
+
+![ResultsPt3](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/TableofResultsPt3.PNG)
+
+![ResultsPt4](https://github.com/SDearing/Reducing_Software_Vulnerabilties_within_Software_Development/blob/master/TableofResultsPt4.PNG)
 
 ### Data Analysis
 
